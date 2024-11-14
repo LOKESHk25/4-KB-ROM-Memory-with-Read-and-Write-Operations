@@ -60,7 +60,7 @@ endmodule
 
 
 Testbench for 4KB ROM Memory
-
+```
 // rom_memory_tb.v
 `timescale 1ns / 1ps
 
@@ -118,6 +118,7 @@ module rom_memory_tb;
     end
 
 endmodule
+```
 ![Screenshot 2024-10-17 at 14 47 45_df0a2ad9](https://github.com/user-attachments/assets/216d3fe6-d382-4877-aa0a-c7a2d92ef46c)
 
 Conclusion
